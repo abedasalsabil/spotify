@@ -1,4 +1,4 @@
-# weather_forecast
+# Spotify
 Project Title: Weather Predictions
 
 Group 7 Team Members: Abeda Salsabil, Han Yu, Khevana Patel, Sumaiya Nathani
