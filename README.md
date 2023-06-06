@@ -1,5 +1,5 @@
 # Spotify
-Project Title: Weather Predictions
+Project Title: Spotify Most Popular Songs Predictions
 
 Group 7 Team Members: Abeda Salsabil, Han Yu, Khevana Patel, Sumaiya Nathani
 
