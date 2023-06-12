@@ -24,4 +24,4 @@ https://www.kaggle.com/datasets/leonardopena/top50spotify2019
 1. Install [nvm](https://formulae.brew.sh/formula/nvm)
 2.  Run `nvm install 16` in your terminal
 3. Run `npm install http-server -g`
-4. Run `http-server' in the folder with index.html and app.js
+4. Run `http-server' in the static folder
