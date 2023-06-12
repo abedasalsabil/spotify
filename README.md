@@ -18,3 +18,10 @@ https://www.kaggle.com/code/cihanoklap/top-songs-on-spotify-what-makes-them-popu
 ​​https://developer.spotify.com/documentation/web-api 
 https://www.kaggle.com/datasets/anxods/spotify-top-50-playlist-songs-anxods 
 https://www.kaggle.com/datasets/leonardopena/top50spotify2019
+
+
+## Getting started
+1. Install [nvm](https://formulae.brew.sh/formula/nvm)
+2.  Run `nvm install 16` in your terminal
+3. Run `npm install http-server -g`
+4. Run `http-server' in the folder with index.html and app.js
