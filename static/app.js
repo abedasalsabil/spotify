@@ -1,6 +1,6 @@
 /// Use the D3 library to read from the CSV file ///
 
-const csv = "./clean_May_tracks.csv"
+const csv = "clean_May_tracks.csv"
 
 /*
 data:
