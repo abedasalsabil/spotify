@@ -1,4 +1,4 @@
-track.name,track.album.name,track.album.album_type,track.popularity,danceability,energy,key,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,artist
+track.name,album_name,album_type,popularity,danceability,energy,key,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,artist
 #Sarkanbaltsarkanais,#Sarkanbaltsarkanais,single,38.0,0.738,0.785,11,-5.003,0.104,0.0608,0.0,0.403,0.626,110.118,Bermudu Divstūris
 'Til We Meet Again,MY WORLD - The 3rd Mini Album,single,63.0,0.474,0.857,5,-2.577,0.0571,0.134,0.0,0.113,0.552,155.71,aespa
 00:00,00:00,single,60.0,0.563,0.572,4,-8.769,0.125,0.64,0.00227,0.1,0.392,95.013,Lartiste
